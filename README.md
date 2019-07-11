@@ -8,4 +8,4 @@ The active strategy is determined my forecasting system length per settlement pe
 
 The scripts contain the data collection process from the NG api and the analysis.py has the progressive out-of-sample validation of the strategy. 
 
-This is a basic implementation and it can be vastly improved with use of more system information and proprietory data. 
+This is a basic implementation and it can be vastly improved with the use of more system information and proprietory data. 
