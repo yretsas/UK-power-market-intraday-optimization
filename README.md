@@ -6,6 +6,6 @@ Publicly available information is being used from the National Grid API to struc
 
 The active strategy is determined my forecasting system length per settlement period (intraday) and positioning on the spread between intraday spot prices and balancing prices. 
 
-The scripts contain the data collection process from the NG api and the progressive out-of-sample validation of the strategy. 
+The scripts contain the data collection process from the NG api and the analysis.py has the progressive out-of-sample validation of the strategy. 
 
 This is a basic implementation and it can be vastly improved with use of more system information and proprietory data. 
